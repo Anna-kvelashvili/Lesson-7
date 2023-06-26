@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Inter' sans-serif;
+    src: url(../Fonts/Inter-Regular.eot'Inter-Regular.eot');
+    src: url(../Fonts/'Inter-Regular.eot?#iefix') format('embedded-opentype'),
+        url(../Fonts/'Inter-Regular.woff2') format('woff2'),
+        url(../Fonts/'Inter-Regular.woff') format('woff'),
+        url(../Fonts/'Inter-Regular.ttf') format('truetype'),
+        url(../Fonts/'Inter-Regular.svg#Inter-Regular') format('svg');
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
+}
+@font-face {
+    font-family: 'Poppins-semibold' sans-serif;
+    src: url(../Fonts/Poppins-SemiBold.eot'Poppins-SemiBold.eot');
+    src: url(../Fonts/'Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url(../Fonts/'Poppins-SemiBold.woff2') format('woff2'),
+        url(../Fonts/'Poppins-SemiBold.woff') format('woff'),
+        url(../Fonts/'Poppins-SemiBold.ttf') format('truetype'),
+        url(../Fonts/'Poppins-SemiBold.svg#Poppins-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Poppins-bold'sans-serif;
+    src: url(../Fonts/Poppins-Bold.eot'Poppins-Bold.eot');
+    src: url(../Fonts/'Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+        url(../Fonts/'Poppins-Bold.woff2') format('woff2'),
+        url(../Fonts/'Poppins-Bold.woff') format('woff'),
+        url(../Fonts/'Poppins-Bold.ttf') format('truetype'),
+        url(../Fonts/'Poppins-Bold.svg#Poppins-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
